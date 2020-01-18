@@ -1,6 +1,6 @@
 # ETH Course - ANOVA
 
-This course gives a overview on principles of experimental design. One-way analysis of variance. Multi-factor experiments and analysis of variance. Block designs. Latin square designs. Split-plot and strip-plot designs. Random effects and mixed effects models. Full factorials and fractional designs.__
+This course gives a overview on principles of experimental design. One-way analysis of variance. Multi-factor experiments and analysis of variance. Block designs. Latin square designs. Split-plot and strip-plot designs. Random effects and mixed effects models. Full factorials and fractional designs.
 
 ## Description
 
